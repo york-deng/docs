@@ -44,6 +44,12 @@
 ## ZooKeeper 
 * [ZooKeeper Documentation](http://zookeeper.apache.org/doc/current/index.html) 
 
+## Apache HttpClient
+* [Apache HttpClient 3.1 API](https://hc.apache.org/httpclient-3.x/apidocs/index.html)
+
+## Apache Juneau
+* [Apache Juneau 8.0.1](http://juneau.apache.org/site/apidocs-8.0.0/)
+
 ## Jsoup 
 * [Jsoup Java HTML Parser API](https://jsoup.org/apidocs/index.html)
 
